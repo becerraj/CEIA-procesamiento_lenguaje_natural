@@ -1,1 +1,7 @@
 .DS_Store
+songs_dataset/
+songs_dataset.zip
+Desafios/songs_dataset/
+*.tsv
+*.zip
+Desafios/dylan_embeddings_2d.png
